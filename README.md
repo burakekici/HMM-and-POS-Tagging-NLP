@@ -8,7 +8,7 @@ Each sentence is in the form of "word/POS tag" in the Brown corpus. (fire/nn mea
 
 # Task 2 - Building HMM model
 
-http://www.cs.virginia.edu/~hw5x/Course/CS6501-Text-Mining/_site/docs/codes/HMM.PNG
+![alt text](http://www.cs.virginia.edu/~hw5x/Course/CS6501-Text-Mining/_site/docs/codes/HMM.PNG)
 
 # Task 3 - Assigning the most probable tags
 
